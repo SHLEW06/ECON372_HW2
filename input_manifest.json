@@ -1,0 +1,7 @@
+{
+  "inputs": {
+    "medicare-physician-ga-office-visits.csv": "34af864de3a812e9cf6fb06f2d8271bbc83318f7d20e4610447a68da0f8bcd9c",
+    "medicare-physician-epidural.csv": "11a5722d0e7ff78ad2ece0c86ffae080016a3b52ff75480d8789e803f3747d7b"
+  },
+  "description": "Exact supplied Homework 2 input files; data/ is gitignored."
+}
