@@ -1,0 +1,22 @@
+# Raw data is never pushed. Download it into data/ from the link in the assignment.
+data/*
+!data/README.md
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Quarto
+/.quarto/
+
+# OS
+.DS_Store
+Thumbs.db
