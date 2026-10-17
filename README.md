@@ -1,6 +1,6 @@
 # ECON 372 — Homework 2
 
-**Victor Li — Physician Agency and Payment Changes**
+**Shunji Lewandowski — Physician Agency and Payment Changes**
 
 Open `report.html` in a browser to see the full homework with code, output, and figures. GitHub also shows the executed notebook, `code/analysis.ipynb`, directly. The ten parts are answered in order, followed by an appendix of robustness checks.
 
